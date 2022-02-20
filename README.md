@@ -2,7 +2,7 @@
 This is a small test for web api
 
 # Tests -> request + response
-Get
-Put
-Delete
-Post
+Get 
+Put 
+Delete 
+Post 
